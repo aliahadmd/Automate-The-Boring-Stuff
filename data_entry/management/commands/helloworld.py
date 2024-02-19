@@ -8,3 +8,4 @@ class Command(BaseCommand):
     def handle(self, *args, **kwargs):
         # print hello world
         self.stdout.write("Hello World")
+   

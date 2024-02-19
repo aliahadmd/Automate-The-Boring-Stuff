@@ -178,3 +178,7 @@ venv
 .venv
 /venv
 ./venv
+
+student_data.csv
+.student_data.csv
+/student_data.csv
